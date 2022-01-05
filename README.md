@@ -7,5 +7,8 @@ If you are unable to view the jupyter notebook in GitHub, please access the repo
 Access the code on local system:
 ```
 git clone https://github.com/hemendrarajawat/DL-Basic-To-Advanced.git
+cd DL-Basic-To-Advanced/
+python -m venv env
+source env/Scripts/activate
 pip install -r requirements.txt
 ```
