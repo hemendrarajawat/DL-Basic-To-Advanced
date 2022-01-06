@@ -8,3 +8,4 @@ torchvision
 torchaudio
 ipykernel
 seaborn
+sklearn
